@@ -1,5 +1,5 @@
-m mammal
-o outside
-u USB
+m mighty
+o optical
+u under
 s small
-e eager
+e endive
